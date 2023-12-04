@@ -20,4 +20,4 @@ What is the sum of all of the calibration values?
 
 Your puzzle answer was `54504`.
 
-The first half of this puzzle is complete! It provides one gold star: :star:
+The first half of this puzzle is complete! It provides one gold star: ⭐

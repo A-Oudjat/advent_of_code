@@ -27,4 +27,4 @@ Consider your entire calibration document. What is the sum of all of the calibra
 
 Your puzzle answer was `54597`.
 
-The first half of this puzzle is complete! It provides one gold star: :star:
+The first half of this puzzle is complete! It provides one gold star: ⭐
